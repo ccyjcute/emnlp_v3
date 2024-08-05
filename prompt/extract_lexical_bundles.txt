@@ -1,0 +1,1121 @@
+﻿﻿﻿I want you to act as if you are a linguist who is familiar with lexical bundles, specifically meta-discourse, which focuses on the structure rather than the content itself. 
+
+Lexical bundles are used repeatedly typically and appear at the beginning of a sentence and are high in frequency, utilizing common and general words. 
+Lexical bundles have identifiable discourse functions, and serve various purposes in communication, particularly in writing and speech, to enhance the effectiveness and persuasiveness of the message.
+
+
+Here is a Functional Taxonomy of 13 types of Lexical bundles provided with *Sample phrases* and two types of *Sample sentences*.
+- *Sample phrases*:
+     A list of sample phrases realizing this function of lexical bundles.
+- Two types of *Sample sentences*:
+     Type 1. Sample sentences containing phrases that serve the target function; 
+     Type 2. Sample sentences that should contain phrases to achieve a certain rhetorical function. 
+
+
+A. **Uncertain Statement:**
+     An "Uncertain Statement" includes phrases expressing doubt or lack of certainty, such as "I think this is," "don't know why," "it seems to me," "I don't know," "may," "might," "should," "seems," and "probably." 
+     These phrases indicate tentative or speculative assertions rather than definitive statements.
+      
+   - *Sample Phrases:*
+        "i think this is",
+        "it seems to me",
+        "i think that the",
+        "I don't know if",
+        "I don't know what",
+        "I don't know how",
+        "and I don't know",
+        "I think it was",
+        "and I think that",
+        "you know what I",
+        "I don't think so",
+        "I thought it was",
+        "well I don't know",
+        "I don't know whether",
+        "I don't know why",
+        "i think that",
+        "seems to be",
+        "i think it",
+        "think it is",
+        "i think the",
+        "probably",
+        "maybe",
+        "i don't know if",
+        "i don't know what",
+        "i don't know how",
+        "don't know if you",
+        "i don't think that",
+        "we don't know what",
+        "don't really know",
+        "it's possible that",
+        "it could be that",
+        "possibly",
+        "perhaps",
+        "there's a chance that"   
+
+   - *Sample sentences:*
+Type 1: 
+     - [[I think this is]] the best course of action given the circumstances.
+     - [[I don't know why]] the project failed despite our efforts.
+     - The rapid spread of UNIX-based systems [[seems to]] facilitate competition.
+     - In today's lesson, [[it's possible that]] some of you may find these math problems challenging, but with practice, you'll improve.
+     - [[Perhaps]] we should review the poem once more to better understand the author's use of symbolism.
+     - The variable x in this equation [[seems to be]] the key factor influencing the outcome.
+     - [[I think]] it would be beneficial for us to start with a quick review of last week’s material.
+
+Type 2: 
+     - The outcome was unexpected. [[MISS]] (e.g., It seems to me) that we need to re-evaluate our strategy.
+     - Without prior experience, [[MISS]] (e.g., I don't know how) we can complete this task effectively.
+     - Most people would [[MISS]] (e.g., assumptionally) agree that, given the circumstances, the project will be successful.
+
+
+B. **Obligation Statement:**
+     An "Obligation Statement" includes phrases that express a requirement or necessity, often directed at the second person pronoun (you), such as "you have to do," "it is important to," "you need to know," "you might want to," "it has to be," "must," "should," "need to," and "ought to." 
+     These phrases indicate actions that are deemed necessary or strongly recommended.
+     
+   - *Sample Phrases:*
+        "it has to be",
+        "to go to the",
+        "of the most important",
+        "you don't have to",
+        "you have to do",
+        "you look at the",
+        "you might want to",
+        "you need to know",
+        "and you have to",
+        "going to have to",
+        "you want me to",
+        "do you want me",
+        "it is important to",
+        "it is necessary to",
+        "you have to",
+        "have to be",
+        "have to do",
+        "need to",
+        "important",
+        "we don't have to",
+        "don't have time to",
+        "if you don't have",
+        "i don't have to",
+        "ought to",
+        "you ought to",
+        "required to",
+        "you're required to",
+        "must",
+        "you must",
+        "please do",
+        "please raise your hand",
+        "please finish"
+
+   - *Sample sentences:*
+Type 1: 
+     - [[Please take out]] your cellphone or iPad, and scan the QR code.
+     - [[You have to do]] your homework before you can play outside.
+     - [[It is important to]] follow the guidelines to ensure safety.
+     - [[I want you to]] take out a piece of paper and jot some notes down in these four areas.
+     - For your homework, [[you're required to]] complete the first three exercises on page 44 of your textbook.
+     - [[You might want to]] bring a calculator to tomorrow's physics class since we'll be doing several complex calculations.
+     - [[You ought to]] proofread your essays to avoid any grammatical errors.
+
+
+Type 2:
+     - To be successful in this role, [[MISS]] (e.g., you need to know) how to manage a team.
+     - The application process is detailed, [[MISS]] (e.g., it has to be) completed accurately.
+     - The report [[MISS]] (e.g., must) be submitted by the end of the day.
+     - To achieve the best results, [[MISS]] (e.g., should) focus on quality over quantity. 
+     - Remember,[[MISS]] (e.g., I don't have to) remind you about the test tomorrow; it's your responsibility to be prepared.
+
+
+     
+
+C. **Intention and Prediction Statement:**
+     An "Intention and Prediction Statement" includes phrases expressing the speaker's intention to perform future actions. 
+     They indicate what is planned or expected to happen, such as "this is going to," "are going to be," "want to talk about," "going to show you," "will," "shall," "is likely to," and "are expected to."
+      
+   - *Sample Phrases:*
+        "it turns out that",
+        "will come back to",
+        "turns out to be",
+        "this is going to",
+        "want to show you",
+        "in order to get",
+        "going to show you",
+        "so that you can",
+        "turned out to be",
+        "going to come back",
+        "going to end up",
+        "going to give you",
+        "and it turns out",
+        "this is going to",
+        "am going to give",
+        "going to end up",
+        "going to give you",
+        "if you want to",
+        "I don't want to",
+        "do you want to",
+        "you want to go",
+        "do you want a",
+        "I want you to",
+        "you don't want to",
+        "I'm not going to",
+        “ going to have",
+        "and we're going to",
+        "I was going to",
+        "what we're going to",
+        "is going to be",
+        "are going to be",
+        "not going to be",
+        "going to have a",
+        "going to be",
+        "am going to",
+        "I'm going",
+        "we are going"
+        "i want to",
+        "so it is",
+        "is going to",
+        "going to have",
+        "not going to",
+        "that's going",
+        "going to get",
+        "are going to",
+        "is going to",
+        "so this is",
+        "we are going",
+        "in order to",
+        "going to happen",
+        "will",
+        "shall",
+        "want to",
+        "would",
+        "it is going to be",
+        "at the end of the",
+        "I'm not going to",
+        "and I'm going to",
+        "if you look at the",
+        "there s a lot of",
+        "and we are going to",
+        "we are going to talk",
+        "we are going to see",
+        "are going to talk about",
+        "what's going to happen",
+        "I'm going to talk",
+        "what we are going to",
+        "that's going to be",
+        "you are going to have",
+        "i want to talk about",
+        "we are going to be",
+        "you are going to get",
+        "I'm going to do",
+        "is going to be a",
+        "there's going to be",
+        "we are going to do",
+        "what I'm going to",
+        "going to have",
+        "now we are going to",
+        "you are going to be",
+        "if you are going to",
+        "are going to look at",
+        "you are not going to",
+        "I'm going to be",
+        "that we are going to",
+        "we are not going to",
+        "they are going to be",
+        "but I'm going to",
+        "is going to be the",
+        "I'm just going to",
+        "they are not going to",
+        "I'm going to give",
+        "is going to be the",
+        "and it is going to",
+        "I'm going to show",
+        "i want to show you",
+        "going to come back to",
+        "I'm going to get",
+        "we will talk about that",
+        "so you are going to",
+        "going to be able to",
+        "now I'm going to",
+        "you can see that the",
+        "so it is going to",
+        "and i will show you",
+        "I will give you",
+        "we are going to come",
+        "you are going to see",
+        "then I'm going to",
+        "then we are going to",
+        "we are going to assume",
+        "what are you going to",
+        "are going to have a",
+        "we are going to get",
+        "that's what we are",
+        "we are going to use",
+        "you are going to do",
+        "I'm going to put",
+        "I'm going to start",
+        "I'm going to say",
+        "I'm going to take",
+        "is I'm going to",
+        "i want to do is",
+        "they are going to use",
+        "looks like it will",
+        "we are set to",
+        "let's"
+
+   - *Sample sentences:*
+Type 1: 
+     - [[I will give you]] two minutes to go though this paragraph.
+     - [[So let's]] combine the second and third groups since three students can’t join us today. --> In this sentence, [[let's]] indicate an "C. Intention and Prediction Statement" of a future action rather than "F. Topic Introduction". 
+     - [[This is going to]] be a challenging project for all of us.
+     - I [[want to talk about]] the future goals of our company.
+     - If the hypothesis [[turns out to be]] incorrect, we'll need to adjust our experiment accordingly.
+     - Today [[we are going to talk]] about the water cycle and its importance to our environment.
+     - All [[I want to do is]] introduce the basic principles of quantum mechanics in a way that's easy to understand.
+     - We will stop here for today, but we are [[going to come back]] to this topic in our next class to explore it in more detail.
+     - [[I'm going to start]] today's lesson by discussing the key elements of a well-structured essay.
+
+Type 2:
+     - The new policy will affect everyone in the department. [[MISS]] (e.g., This is going to) require adjustments from all team members.
+     - We need to address the recent drop in sales. [[MISS]] (e.g., I'm going to show you) some strategies to improve our performance.
+     - The project [[MISS]] (e.g., is likely to) succeed if we all contribute.
+     - The changes [[MISS]] (e.g., are expected to) improve efficiency in the long run.
+
+
+D. **Ability Statement:**
+     An "Ability Statement" describes skills or tasks that can be accomplished, often in conjunction with directive bundles to outline what students should achieve. 
+     Phrases include "to be able to," "trying to figure out," "it is possible to," "can be used to," "have the capability to," "have the potential to," and "are capable of."
+
+   - *Sample Phrases:*
+        "to figure out what",
+        "trying to figure out",
+        "i think you can",
+        "is to say the",
+        "to be able to",
+        "to come up with",
+        "can be used to",
+        "it is possible to",
+        "be able to",
+        "can see the",
+        "to be a",
+        "can",
+        "able",
+        "possible",
+        "capable",
+        "going to be able to",
+        "has the ability to",
+        "capable of",
+        "can manage to",
+        "can achieve"
+
+   - *Sample sentences:*
+Type 1:
+     - With this new software, you [[will be able to]] streamline your workflow.
+     - We are [[trying to figure out]] the best way to solve this issue.
+     - So encoding's always harder than decoding. Cos you have [[to come up with]] the word, you have to spell it, and use it correctly.
+     - This chemical reaction [[has the ability to]] produce a significant amount of heat, so please handle it with care.
+     - Notice how increasing the angle [[can]] significantly change the trajectory of the projectile in this simulation.
+     - For your assignment, you need [[to figure out]] the main themes presented in the novel we've been reading.
+
+Type 2:
+     - The new technology offers many benefits. [[MISS]] (e.g., It is possible to) use it to enhance productivity.
+     - The device can perform multiple functions. [[MISS]] (e.g., Can be used to) improve efficiency.
+     - Engineers [[MISS]] (e.g., are capable of) innovate new solutions to existing problems.
+
+
+E. **Reference Statement:**
+     A "Reference Statement" includes phrases that refer to evidence, likelihood, or additional considerations, often grounding assertions in observed or known information. 
+     Phrases include "are more likely to," "the fact that the," "and things like that," and "about the fact that." These statements emphasize references to supporting details or general factors.
+
+   - *Sample Phrases:*
+        "about the fact that",
+        "one way or another",
+        "other side of the",
+        "is the fact that",
+        "are more likely to",
+        "the fact that the",
+        "or something like that",
+        "and stuff like that ",
+        "and things like that",
+        "the fact that",
+        "so that the",
+        "as well as",
+        "on the other",
+        "in this case",
+        "because",
+        "mentioned",
+        "explained",
+        "the way in which the",
+        "the point of view of",
+        "in the course of the",
+        "as a matter of fact",
+        "in such a way that",
+        "in one way or another",
+        "on the left hand side",
+        "on the part of the",
+        "point of view of the",
+        "by the end of the",
+        "hand side of the screen",
+        "the fact that it is",
+        "considering that"
+
+   - *Sample sentences:*
+Type 1:
+     - Due to their experience, they [[are more likely to]] succeed in this project.
+     - The study emphasizes [[the fact that the]] environment plays a crucial role in development.
+     - From the [[point of view of the]] narrator, the events unfold in a way that reveals their personal biases and limitations.
+     - As [[I mentioned]] earlier, please make sure to bring your lab coats for tomorrow's experiment.
+     - You should revise this chapter thoroughly [[because it wil]]l be covered extensively in the upcoming exam.
+     - In this course, we will explore various programming languages, software development tools, [[and things like that]].
+
+Type 2:
+     - He mentioned several factors influencing the outcome. [[MISS]] (e.g., And things like that) should be considered as well.
+     - The report highlights the importance of teamwork. [[MISS]] (e.g., About the fact that) collaboration was key.
+
+
+F. **Topic Introduction:**
+     A "Topic Introduction" statement signals the start of a new subject or area of discussion, often used to guide students to the beginning of a new topic. 
+     Phrases include "you can see that," "as you can see," "take a look at," "if you look at," "let's consider,". "let's" "consider," "discuss," "subject," and "issue." 
+     The sentence has intention to introduce and focus on a new topic. 
+
+   - *Sample Phrases:*
+        "you can see that",
+        "am going to talk",
+        "you can see here",
+        "going to look at",
+        "to talk about the",
+        "to give you a",
+        "ve been talking about",
+        "you can see it",
+        "if you think about",
+        "so you can see",
+        "will be talking about",
+        "what do you think",
+        "if you look at",
+        "look at",
+        "going to talk about",
+        "to go ahead and",
+        "I want to do",
+        "want to talk about",
+        "you know if you",
+        "a little bit about",
+        "I would like to",
+        "in this chapter we",
+        "I'll tell you what",
+        "have a look at",
+        "let's have a look",
+        "do you know what",
+        "let's",
+        "to talk about",
+        "look at the",
+        "we are talking",
+        "if you look",
+        "and so you",
+        "this is a",
+        "if you have",
+        "as you can",
+        "we are looking",
+        "as i said",
+        "so what's",
+        "so let's",
+        "look at this",
+        "so you can",
+        "take a look",
+        "let's look",
+        "we will talk",
+        "to give you",
+        "and then we",
+        "here",
+        "now",
+        “Now”,
+        "today",
+        "let's",
+        "if you look at",
+        "we are going to talk",
+        "what's going to happen",
+        "I'm going to talk",
+        "that's going to be",
+        "i want to talk about",
+        "there s going to be",
+        "we are going to",
+        "as you can see here",
+        "are going to look at",
+        "that we are going to",
+        "let's look at the",
+        "we will come back",
+        "I'm going to show",
+        "in the course of the",
+        "in the middle of the",
+        "you can see that",
+        "you are going there",
+        "now let's look at",
+        "we will talk about that",
+        "we are going to assume",
+        "in the middle of the",
+        "what does it mean to",
+        "in the middle",
+        "so let's look at"
+
+   - *Sample sentences:*
+Type 1:
+     - [[As you can see,]] the results are consistent across all trials.
+     - [[Here you can]] see the difference between classic and modern literature.
+     - [[If you look at]] development and the jobs that are created, it says nothing first of all of the type of jobs that are created.
+     - [[We are going to discuss]] the economic impact that the World War I bring to the European system.
+Type 2:
+    - [[MISS]](e.g., Now that) we've gone over the basics of fractions, let's try solving some more complex problems.
+     - The chart illustrates the growth over the past year. [[MISS]] (e.g., You can see that) our efforts have paid off.
+     - The presentation will cover various topics. [[MISS]] (e.g., First, we'll take a look at) the financial overview.
+     - This chapter [[MISS]] (e.g., issues) a comprehensive overview of the key concepts discussed in the book.
+     - [[MISS]](e.g., Let’s embrace) this learning opportunity to expand our skills and grow both personally and professionally.
+     
+
+G. **Topic Elaboration:**
+     A "Topic Elaboration" statement provides additional information or clarifies the current topic, helping to expand or deepen the discussion. 
+     Phrases include "that is to say," "has to do with," "on the other hand," "and by the way," "to go back to," "moving on to," "further," "similarly," "as revealed by," "in the case of," and "to clarify." These statements serve to elaborate on, contrast, or add context to the subject being discussed.
+
+   - *Sample Phrases:*
+        "that is to say",
+        "go back to the",
+        "come back to that",
+        "to go back to",
+        "and by the way",
+        "the other side of",
+        "for the most part",
+        "what was going on",
+        "all the way to",
+        "have to worry about",
+        "has to do with",
+        "to do with the",
+        "I mean you know",
+        "you know I mean",
+        "nothing to do with",
+        "on the other hand",
+        "as we will as the",
+        "know what I mean",
+        "was going to say",
+        "what do you mean",
+        "and by the",
+        "to go back",
+        "to do with",
+        "on the other",
+        "and so on",
+        "back to the",
+        "this is one",
+        "come back to",
+        "so that's",
+        "in other words",
+        "trying",
+        "how many of you",
+        "how are we going to",
+        "back to top",
+        "as we will see in",
+        "has nothing to do with",
+        "nothing to do with",
+        "it is almost as if",
+        "the surface of the earth",
+        "let's go back to",
+        "what's going on in",
+        "this is one of",
+        “is one of”,
+        "all right so",
+        "at the same time",
+        "moving on to",
+        "further",
+        "similarly",
+        "as revealed by",
+        "in the case of",
+        "to clarify",
+        "it's a call",
+        "it's a beacon",
+        “although”,
+
+   - *Sample sentences:*
+Type 1:
+     - Our sales have increased significantly. [[That is to say,]] we have reached our targets.
+     - [[On the other hand,]] there are still areas that need improvement.
+     - I'm gonna check on the grammar [[you know I mean]] I expect you to have things spelled relatively correctly,
+     - [[It's a call]] to recognize and confront the complex realities of Arabian culture and history. 
+     - You should attempt to solve the problem on your own, [[even if]] you feel unsure at first.
+     - We'll discuss colors, shapes, [[and so on]] during today's art class.
+Type 2:
+     - The initial phase was successful. [[MISS]] (e.g., To go back to) the first point, we need to sustain this momentum.
+     - There were many challenges. [[MISS]] (e.g., And by the way,) we also faced budget constraints.
+     - The findings were unexpected [[MISS]] (e.g., as revealed by) the data analysis.
+     - The methods used were effective [[MISS]] (e.g., in the case of) the pilot study.
+
+
+H. **Identifier Phrase:**
+     An "Identifier Phrase" emphasizes the importance of the noun phrase that follows, often highlighting its significance or categorizing it. 
+     Phrases include "is a kind of," "a whole bunch of," "this is one of," "one of the most," "example of," and "illustrated." These statements serve to identify and underscore key elements or examples within the discussion.
+
+   - *Sample Phrases:*
+        "is a kind of",
+        "the same kind of",
+        "a kind of a",
+        "some kind of a",
+        "a whole bunch of",
+        "this is a very",
+        "this is one of",
+        "that there was a",
+        "a different kind of",
+        "the two of them",
+        "and all of that",
+        "is the one that",
+        "parts of the world",
+        "is kind of a",
+        "a certain kind of",
+        "this part of the",
+        "such a way that",
+        "is an example of",
+        "that there is a",
+        "that's one of the",
+        "and this is a",
+        "and this is the",
+        "is one of the",
+        "was one of the",
+        "one of the things",
+        "and one of the",
+        "one of the most",
+        "those of you who",
+        "of the things that",
+        "one of the",
+        "a kind of",
+        "this is a",
+        "this is one",
+        "kind of a",
+        "some kind of",
+        "thing",
+        "over one another",
+        "a little bit of a",
+        "one of the things that",
+        "there's a kind of",
+        "it is a kind of",
+        "this is the kind of",
+        “example”,
+        “for example”
+
+   - *Sample sentences:*
+Type 1:
+     - We will examine the effects of pollution on marine life, focusing on how [[some of the]] most common pollutants impact different species.
+     - This tool [[is a kind of]] Swiss army knife for developers.
+     - The heart [[is one of]] the most critical organs in the human body, responsible for pumping blood throughout our system.
+     - [[One of the most]] significant benefits of this approach is its flexibility.
+     - For [[those of you who]] came late I have a quiz for you.
+     - Today, we'll focus on solving equations that involve [[a certain kind of]] logarithmic function.
+     - The Taj Mahal [[is an example of]] Mughal architecture that incorporates both Persian and Indian influences.
+
+Type 2:
+     - The strategy has multiple advantages. [[MISS]] (e.g., This is one of) the key reasons for its success.
+     - The project requires teamwork. [[MISS]] (e.g., A whole bunch of) skills are necessary to accomplish it.
+
+
+I. **Quantity Specification:**
+     A "Quantity Specification" statement specifies the amount or extent of something, often quantifying aspects of the topic under discussion. 
+     Phrases include "a lot of people," "a little bit of," "a variety of," and "over the course of." These statements help to provide a clear sense of scale or diversity related to the subject.
+
+   - *Sample Phrases:*
+        "is a lot of",
+        "is a little bit",
+        "for a long time",
+        "over and over again",
+        "the speed of light",
+        "and so on and",
+        "a great deal of",
+        "a whole bunch of",
+        "a certain amount of",
+        "all over the world",
+        "a variety of different",
+        "over the course of",
+        "all over the place",
+        "for the rest of",
+        "the square root of",
+        "it a little bit",
+        "be a little bit",
+        "many of you have",
+        "a certain amount of",
+        "there's a lot of",
+        "have a lot of",
+        "and a lot of",
+        "a lot of people",
+        "a lot of the",
+        "how many of you",
+        "in a lot of",
+        "the rest of the",
+        "a little bit of",
+        "a little bit more",
+        "a lot of times",
+        "than or equal to",
+        "greater than or equal",
+        "per cent of the",
+        "a lot of",
+        "a little bit",
+        "a number of",
+        "a couple of",
+        "few",
+        "many",
+        "several",
+        "some",
+        "most",
+        "more",
+        "there's a lot of",
+        "there are a lot of",
+        "there are a number of",
+        "one of the most"
+
+   - *Sample sentences:*
+Type 1:
+     - [[A lot of people]] attended the conference last week.
+     - The experiment requires [[a little bit of]] patience and precision.
+     - To complete the experiment, you will need [[a certain amount of]] distilled water and several test tubes.
+     - For the experiment, please gather [[some]] leaves from different types of plants.
+     - When coding this algorithm, ensure that the loop continues as long as the variable is less [[than or equal to]] 10.
+     - We start with addition and subtraction, move onto multiplication and division, [[and so on and]] forth through more advanced math topics.
+
+
+Type 2:
+     - The report contains detailed analyses. [[MISS]] (e.g., A variety of different) methodologies were used.
+     - The project will span several phases. [[MISS]] (e.g., Over the course of) two years, we aim to complete it.
+
+
+J. **Framing Attributes:**
+     A "Framing Attributes" statement provides context or conditions that shape the understanding of the main subject. 
+     Phrases include "in the sense that," "the way in which," "as a result of," and "in terms of the." These statements help to frame the attributes or circumstances that affect or define the topic being discussed.
+
+   - *Sample Phrases:*
+        "in a way that",
+        "in the sense that",
+        "the way in which the",
+        "the point of view",
+        "point of view of",
+        "from the point of",
+        "in the way that",
+        "the rate at which",
+        "the present value of",
+        "by the name of",
+        "to be in the",
+        "in this case the",
+        "such a way that",
+        "the size of the",
+        "in the form of",
+        "the nature of the",
+        "in the case of",
+        "in terms of the",
+        "as a result of",
+        "on the basis of",
+        "in the absence of",
+        "the way in which",
+        "the extent to which",
+        "in the presence of",
+        "the way in",
+        "in terms of",
+        "in the hand",
+        "point of view",
+        "ways that",
+        "as a result",
+        "the surface of the"
+
+   - *Sample sentences:*
+Type 1:
+     - The policy is effective [[in the sense that]] it reduces waste.
+     - The results depend on [[the way in which]] the data is collected.
+     - They are [[in the form of]] half-wheels, with concentric bands representations alternating with bands of scrollwork. 
+     - In today's class, we'll discuss [[the extent to which]] human activities have impacted climate change.
+     - [[In the case of]] an emergency, please follow the safety procedures we've reviewed.
+     - Now, consider the planet Jupiter; [[the size of the]] planet is immense, especially when compared to Earth, in terms of volume and mass.
+
+Type 2:
+     - The project was delayed. [[MISS]] (e.g., As a result of) unforeseen challenges, the timeline was extended.
+     - The analysis is comprehensive. [[MISS]] (e.g., In terms of the) scope, it covers all relevant aspects.
+     - Today, we will explore [[MISS]] (e.g.,the nature of the) forces acting on a body in motion to better understand Newton's laws.
+
+
+K. **Place/time/text Reference:**
+     A "Place/Time/Text Reference" statement indicates specific places, times, or locations within a text. 
+     Phrases include "at the end of," "in the middle of," "over the course of," "in the [$Time]," and "in the [$Place]." These statements anchor the discussion to particular points in time, places, or parts of the text, providing clear references for context.
+
+   - *Sample Phrases:*
+        "for the first time",
+        "the end of the",
+        "at the end of",
+        "at the spot",
+        "near the end of",
+        "in the article",
+        "in the middle of",
+        "at [$Time]",
+        "the [$Time] century",
+        "during the [$Time]",
+        "during the [$Time] era",
+        "in the [nineteenth] century",
+        "toward the end of the [$Time] century",
+        "of the nineteenth century",
+        "The First World War",
+        "during the first world war",
+        "of the twentieth century",
+        "in the seventeenth century",
+        "in the late seventeenth century",
+        "in the eighteenth century",
+        "early in the eighteenth century",
+        "part of the world",
+        "region of",
+        "all of a sudden",
+        "suddenly",
+        "at the very end",
+        "just before the conclusion",
+        "over the course of",
+        "during the span of",
+        "all through the",
+        "at the same time",
+        "concurrently",
+        "at the time of",
+        "shown in figure N",
+        "as shown in figure",
+        "an image shows",
+        "this photo shows",
+        "the end of",
+        "at the end",
+        "in terms of",
+        "in the middle",
+        "over the course",
+        "in the [$Place]",
+        "in the [$Time]",
+        "in the [Text]",
+        "during",
+        "at",
+        "while",
+        "in the middle of the",
+        "at the beginning of the",
+        "by the end of the",
+        "at the same time that",
+        "at the very end of",
+        "that night",
+        "that morning",
+        "that evening"
+
+   - *Sample sentences:*
+Type 1:
+     - [[That night,]] we rode the Ferris wheel and enjoy the time spent together.
+     - [[This photo shows]] a majestic tree located in Central Park.
+     - The industrial revolution began [[in the nineteenth century]].
+     - The policy was implemented [[in the United States]] and later adopted globally.
+     - We will review the results [[at the end of]] the presentation.
+     - I'm going to start actually with [[the end of the]] chapter. 
+     - At midnight, we chatted and played board games with a group of friends.
+     - [[By the end of the]] semester, you should be able to apply these mathematical theories practically and confidently.
+     - Please note that [[at the same time that]] you write your essays, you should also be citing your sources correctly to avoid plagiarism.
+     - [[Over the course]] of this week, we will analyze the development of Gothic architecture across different European regions.
+
+Type 2:
+     - The invention had a significant impact. [[MISS]] (e.g., At the same time,) it brought about social changes.
+     - The study covers a wide range of topics. [[MISS]] (e.g., Over the course of) five years, extensive data was collected.
+     - [[MISS]](e.g., During) today's lab session, please observe the changes carefully as the chemical reaction proceeds.
+
+
+L. **Opening and Disclosure:**
+     An "Opening and Disclosure" statement signals the start or end of a discussion, presentation, or section, often used to introduce, transition, or conclude content. 
+     Phrases include "the beginning of the," "thank you very much," "to start with," "in conclusion," and "lastly." These statements help structure the discourse by marking clear points of initiation or closure.
+
+   - *Sample Phrases:*
+        "the beginning of the",
+        "from the start",
+        "the top of the",
+        "at the very start",
+        "thank you very much",
+        "thanks a lot",
+        "to start with",
+        "starting with",
+        "at the beginning",
+        "initially",
+        "at the beginning of",
+        "in the opening of",
+        "end of",
+        "closure",
+        "all right",
+        "okay",
+        "next time",
+        "in our next session",
+        "end of class",
+        "the conclusion of class",
+        "see you",
+        "welcome to class",
+        “welcome”,
+        "Hello everyone"
+
+   - *Sample sentences:*
+Type 1:
+     - The project started [[at the beginning of the]] year and is progressing well.
+     - [[Welcome to class]], everyone! Today we will dive into the fascinating world of ancient civilizations and their contributions to modern society.
+     - [[Welcome to]] our virtual classroom; today, we'll be learning about Python programming.
+     - [[Hello everyone,]] how are you?
+     - [[To start with]], let's review the basic concepts of algebra that we covered last week.
+     - [[In our next session]], we'll begin exploring Shakespeare's use of iambic pentameter in his plays.
+     - [[All right]], now that everyone understands the formula, let's apply it to solve these equations.
+
+Type 2:
+     - The meeting will conclude soon. [[MISS]] (e.g., Thank you very much) for your attention.
+     - The discussion took an interesting turn [[MISS]] (e.g., In the middle of) the session.
+     - [[MISS]] (e.g., To start with), we need to gather all the necessary materials for the project."
+     - [[MISS]] (e.g., Thank you) for submitting your projects on time; I'll start grading them this weekend.
+
+
+M. **Citing Conversation:**
+     An "Citing Conversation" language refers to phrases that recap previous dialogues or comments. 
+     It can be used to emphasize a point, report a discussion, or attribute an idea. Common phrases include "I said to him," "as mentioned by,". 
+     These statements help reiterate and restructure established information within a conversation.
+
+   - *Sample Phrases:*
+        "I said to him",
+        "I mentioned to him",
+        "I informed him",
+        "I told him",
+        "I spoke to him",
+        "I said to her",
+        "I mentioned to her",
+        "I informed her",
+        "I told her",
+        "I spoke to her",
+        "said",
+        "mentioned",
+        "told",
+        "expressed",
+        "noted",
+        "say",
+        "mention",
+        "tell",
+        "express",
+        "note",
+        "as mentioned by", 
+        "as noted by", 
+        "as argued by", 
+        "observed that",
+        "professor [$Name]",
+        "professor [$Name]:",
+        "Dr. [$Name]",
+        "Dr. [$Name]:"
+
+   - *Sample sentences:*
+Type 1:
+     - [[I said to him]] that the report was due tomorrow.
+     - [[I said to her]] that she had done an excellent job.
+     - A wise man once [[told]] me that money is not the most important thing in the world.
+     - Today, [[Professor Smith]] will be discussing the latest research findings in renewable energy technologies.
+     - [[As argued by]] many economists, fiscal policies can significantly influence market stability.
+     - [[I informed her]] about the changes to the syllabus and the additional reading materials.
+
+Type 2:
+     - He was informed about the deadline. [[MISS]] (e.g., I said to him,) it must be submitted by tomorrow.
+     - She was praised for her efforts. [[MISS]] (e.g., I said to her,) her work was outstanding.
+     - The supervisor [[MISS]] (e.g., observed that) the team performed exceptionally well.
+     - The manager [[MISS]] (e.g., pointed out that) the sales figures were impressive.
+
+---
+---
+
+
+**Steps to be followed:**
+
+
+1. **Read the article provided.**
+   - Identify the word or phrases realizing functions of lexical bundles for each sentence.
+   - Provinde phrases with the above lexical bundles if the sentences lack them.
+
+
+*Notice:*
+     1. Phrases identified should contain more than 2 words and less than 5 words.
+     2. Lexical bundles help explicitly connect and contrast ideas. If a notable shift occurs, using a proper phrase enhances clarity and flow.
+     3. A sentence may have no phrase performing any functions of lexical bundles.
+     4. A sentence may have two or more phrases performing functions of lexical bundles.
+     5. Pay attention to sentences that lack phrases with functions of lexical bundles, especially at the Turning Point or the Start of a sentence.
+     6. If a sentence has no phrase performing any functions of lexical bundles, experiment IF THERE'S A PHRASE NEEDED.
+     7. If you are uncertain whether a phrase performs a functions of lexical bundles, check if the phrase enhances the flow of the article. If not, do not show it.
+
+
+
+
+Example Input:
+
+Last time, we took a look at a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs. That is to say, payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies.
+Today, we discussed the Prisoners' Dilemma with examples like joint projects and price competition, stressing the need for contracts, treaties, and regulations. You can see that essential game ingredients include players, strategies, and payoffs, illustrated with an example involving Player I and Player II.
+Repeated interactions and learning are crucial.
+Let's say players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average. As shown in figure, choices moved from random to calculated, resulting different levels of reasoning.
+One of the most important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know. A lot of times even mutual knowledge doesn't always mean common knowledge.
+At the end of the class, it is important for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time. Knowing rationality and layered knowledge helps players to adjust, in the sense of strategies, and will prepare for more complex games ahead
+
+
+
+2. **Read the full article for the first time.**
+    - Pay attention to the correlation between the sentences and the whole structure of the article.
+    - Examine carefully and see if there is any sentence missing a phrase of lexical bundles.
+    - If adding a phrase of rhetorical function will enhance the article's fluency and flow by any level, it is considered that the sentence is missing this phrase.
+
+
+
+3. **Identify the phrases realizing functions of Lexical Bundles sentence by sentence.**
+
+    - A sentence starts with a capital words and ends with a period(.). 
+      (e.g., "This class isn't just about economic models; we'll look at real-world scenarios." This is one sentence.) 
+    
+    - Identify phrases realizing functions of lexical bundles by matching them with the definition and sample of the Functional Taxonomy provided above.
+      (e.g., "[[Let’s see]] hands for Alpha and Beta." is phrase of F. Topic Introduction, beacause [[let's see]] match with the some of the *Sample Phrases:*  "you can see here", "you will see that", "so let's look at", ...)
+
+    - When a sentence has no phrase using a functions of lexical bundles, experiment if there's a missing phrase of rhetorical function by:
+        (1) Adding a phrase from the Functional Taxonomy to the sentence. You should first select a proper type of Functional Taxonomy provided above, choose a phrase in this type, and then rationalize it. 
+        (2) If the added phrase enhances the article's fluency and flow, it is considered that this sentence is missing this phrase.
+        (3) If the sentence is missing a phrase, mark it as [[MISS]].
+
+    - Process every senetence that is contained in the user input in the above steps, from the very beginning to the end. 
+
+
+*Notice:* You have to mark the phrase of lexical bundle in the sentence in [[]].
+*Notice:* A sentence could have more than one lexical bundles.
+
+Sentence 1: [[Last time,]] we [[took a look at]] a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs.  
+   The phrase, [[Last time,]], refers to a previous time. It is the rhetorical function K. Place/time/text Reference.  
+   The phrase, [[took a look at]], introduces a subject of discussion. It is the rhetorical function F. Topic Introduction.   
+
+
+Sentence 2: [[That is to say]], payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies.  
+   The phrase, [[That is to say]], elaborates on the previous information. It is the rhetorical function G. Topic Elaboration.  
+
+
+Sentence 3: [[Today, we will discuss]] the Prisoners' Dilemma [[with examples like]] joint projects and price competition, stressing the need for contracts, treaties, and regulations.  
+   The phrase, [[Today, we will discuss]], introduces the current topic of discussion. It is the rhetorical function F. Topic Introduction.  
+   The phrase, [[with examples like]], provides examples. It is the rhetorical function H. Identifier Phrase.  
+
+
+Sentence 4: [[You can see that,]] essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II.  
+   The phrase, [[You can see that,]], introduces evidence or an example. It is the rhetorical function F. Topic Introduction.  
+   The phrase, [[illustrated with an example]], references a concrete example. It is the rhetorical function H. Identifier Phrase.  
+
+
+Sentence 5: Repeated interactions and learning are crucial.
+   There is no phrase realizing rhetorical function in this sentence.  
+
+
+Sentence 6: [[MISS]] players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average.  
+   There should be a missing phrase [[MISS]] (e.g., Let's say) introducing a hypothetical situation. It is the rhetorical function F. Topic Introduction.  
+
+
+Sentence 7: [[As shown in figure]], choices moved from random to calculated, [[resulting]] different levels of reasoning.  
+   The phrase, [[As shown in figure]], references visual data. It is the rhetorical function K. Place/time/text Reference.  
+   The phrase, [[resulting]], implies the outcome of a previous action. It is the rhetorical function J. Framing Attributes.  
+
+
+Sentence 8: [[One of the most]] important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know.  
+   The phrase, [[One of the most]], identifies importance. It is the rhetorical function H. Identifier Phrase.  
+ 
+
+Sentence 9: [[A lot of times]] even mutual knowledge doesn't always mean common knowledge.  
+   The phrase, [[A lot of times]], specifies frequency. It is the rhetorical function I. Quantity Specification.
+
+
+Sentence 10: [[At the end of]] the class, [[MISS]] for you to remember that repeated gameplay and discussions enhance strategic thinking, [[shown by]] decreasing chosen numbers over time.  
+    The phrase, [[At the end of]], references the conclusion of a period. It is the rhetorical function K. Place/time/text Reference.   
+    There should be a missing phrase [[MISS]] (e.g., it's a call) introducing the significance of the statement. It is the rhetorical function B. Obligation Statement.  
+    The phrase, [[shown by]], provides evidence. It is the rhetorical function J. Framing Attributes.  
+
+
+Sentence 11: Knowing rationality and layered knowledge helps players to adjust, [[in the sense of]] strategies, and [[will prepare]] for more complex games ahead.  
+    The phrase, [[in the sense of]], frames the context. It is the rhetorical function J. Framing Attributes.  
+    The phrase, [[will prepare]], predicts future actions. It is the rhetorical function C. Intention and Prediction Statement. 
+    
+Sentence 12: Next week, don't forget [[you have to]] hand in your assignment two.  
+    The phrase, [[you have to]], indicates a required action. It is the rhetorical function B. Obligation Statement.  
+
+
+Sentence 13: [[I don't know why]] a lot of you failed to do this last week.  
+    The phrase, [[I don't know why]], expresses uncertainty. It is the rhetorical function A. Uncertain Statement.  
+    
+Sentence 14: [[Thank you very much]].  
+    The phrase, [[Thank you very much]], provides a closing remark. It is the rhetorical function L. Opening and Disclosure.  
+    
+Sentence 15: Class dismissed.  
+    There is no phrase realizing rhetorical function in this sentence.
+
+     
+(Keep attention to the sentence that MISS phrases of rhetorical function.)
+
+
+
+4. **Print out the Table output:**
+
+
+- Create a table with four columns: Sentence Number, Sentence, Phrase, and Functions of Lexical Bundles.
+
+- List out EVERY sentence from the given input in the Table output, even the sentences with no phrase of lexical bundles.
+
+- You HAVE to MARK the phrase of lexical bundles with [[ ]] in the sentence.
+ (e.g., "Most people would [[certainly]] like to go alone | certainly | C. Intention and Prediction Statement"  -->  Mark [[certainly]] in the sentece). 
+
+- You have to mark a [[MISS]] token in the sentence if it misses a phrase of lexical bundles that would enhance its fluency and flow, and suggest a possible phrase in the Phrase column. (e.g., [[MISS]] The recent terrorist strike...).
+
+- You don't have to mark the phrase with [[]] in the *Phrase* column.
+
+- Align the format of the table from the first column.
+
+*Notice:*
+     1. The phrase you mark should contain MORE than 2 words and LESS than 5 words.
+     2. If a phrase is marked in a sentece, you should specific the function of lexical bundle in "Functions of Lexical Bundles" column.
+     2. If no phrase of functions of lexical bundles exists, do NOT make any phrase in [[]] in the sentece, and leave the column "Phrase" and "Functions of Lexical Bundles " with "x".
+     3. One row in the list will only focus on one phrase realizing functions of lexical bundles. (e.g., [[That's nothing wrong]] but if they use them too much, [[will be]] bad to their eyes → this is wrong, should be split into 2)
+     4. If a sentence includes more than one phrase, list the sentence again in the table by the phrases.
+     5. The Functions of lexical bundles must strictly follow the below wording and order:
+          A. Uncertain Statement
+          B. Obligation Statement
+          C. Intention and Prediction Statement
+          D. Ability Statement
+          E. Reference Statement
+          F. Topic Introduction
+          G. Topic Elaboration
+          H. Identifier Phrase
+          I. Quantity Specification
+          J. Framing Attributes
+          K. Place/time/text Reference
+          L. Opening and Disclosure
+          M. Citing Conversation
+
+
+*Notice:* You HAVE to MARK the phrase of lexical bundle in the sentence in [[]].
+*Notice:* There will be at most one phrase marked in [[]] in one row.
+*Notice:* The Table output should strictly follow the format of the example below.
+
+| Sentence Number | Sentence | Phrase | Functions of Lexical Bundles |
+| -------------- | -------- | -------- | -------------------- |
+| 1 | [[Last time,]] we took a look at a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs. | Last time, | K. Place/time/text Reference |
+| 1 | Last time, we [[took a look at]] a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs. | took a look at | F. Topic Introduction |
+| 2 | [[That is to say]], payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies. | That is to say | G. Topic Elaboration |
+| 3 | [[Today, we will discuss]] the Prisoners' Dilemma with examples like joint projects and price competition, stressing the need for contracts, treaties, and regulations. | Today, we discussed | F. Topic Introduction |
+| 3 | Today, we will discuss the Prisoners' Dilemma [[with examples like]] joint projects and price competition, stressing the need for contracts, treaties, and regulations. | with examples like | H. Identifier Phrase |
+| 4 | [[You can see that,]] essential game ingredients include players, strategies, and payoffs, illustrated with an example involving Player I and Player II. | You can see that | F. Topic Introduction |
+| 4 | You can see that, essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II. | illustrated with an example | H. Identifier Phrase |
+| 5 | Repeated interactions and learning are crucial. | x | x |
+| 6 | [[MISS]] players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average. | Let's say | F. Topic Introduction |
+| 7 | [[As shown in figure]], choices moved from random to calculated, resulting in different levels of reasoning. | As shown in figure | K. Place/time/text Reference |
+| 7 | As shown in figure, choices moved from random to calculated, [[resulting]] in different levels of reasoning. | resulting | J. Framing Attributes |
+| 8 | [[One of the most]] important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know. | One of the most | H. Identifier Phrase |
+| 9 | [[A lot of times]] even mutual knowledge doesn't always mean common knowledge. | A lot of times | I. Quantity Specification |
+| 10 | [[At the end of]] the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time. | At the end of | K. Place/time/text Reference |
+| 10 | At the end of the class, [[MISS]] for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time. | it's a call | G. Topic Elaboration |
+| 10 | At the end of the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, [[shown by]] decreasing chosen numbers over time. | shown by | J. Framing Attributes |
+| 11 | Knowing rationality and layered knowledge helps players to adjust, [[in the sense of]] strategies, and will prepare for more complex games ahead. | in the sense of | J. Framing Attributes |
+| 11 | Knowing rationality and layered knowledge helps players to adjust, in the sense of strategies, and [[will]] prepare for more complex games ahead. | will | C. Intention and Prediction Statement |
+| 12 | Next week, don't forget [[you have to]] hand in your assignment two. | you have to | B. Obligation Statement |
+| 13 | [[I don't know why]] a lot of you failed to do this last week. | I don't know why | A. Uncertain Statement |
+| 14 | [[Thank you very much]]. | Thank you very much | L. Opening and Disclosure |
+| 15 | Class dismissed. | x | x |
+
+
+---
+---
+
+
+###  Let's think and do it step by step. ###
+###  Do not print out anything other than Table output ###
+
+
+**1. Read the article provided.**(Do not print out) ...
+
+**2. Read the full article for the first time.**(Do not print out)
+
+**3. Identify the phrases performing rhetorical functions sentence by sentence.**(Do not print out)
+
+**4. Print out the Table output in the specified format. Do not print out anything else.** 
+
+**5. Do not print out anything (words, sentences or symbols) other than the table.**

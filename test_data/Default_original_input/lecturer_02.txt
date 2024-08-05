@@ -1,0 +1,30 @@
+Okay, so first today, we are going to be looking at thermal conductivity and diffusivity. 
+
+So, we know that thermal conductivity, or let's use red for that, thermal conductivit.
+
+Let's write that down, and diffusivity, that's probably two words actually, so let's correct that, conductivity and diffusivity. 
+
+And the reason we are discussing these two concepts together is because actually um, for energy and mass transport, or F transfer.
+
+Uh, they share a lot of things in common, so they can be discussed together. 
+
+But let's start with the thermal conductivity first, and we’re going to start this by looking at some thought experiment, like a hypothetical situation. 
+
+Okay, so let's say that we have an infinite large slab. 
+
+That's a solid slab, so let’s draw that down.
+
+We have an infinite large slab like that, maybe we can draw it like a 3D dimension outwards. 
+So, we have a very, very large slab. 
+
+And, so let’s write that down.
+
+So we have an infinite large solid slab, so it's infinitely large on two dimension, but it has a fixed dimension in the Z direction, or let's call it the Y direction. 
+
+Okay, okay, so the infinite large slab is infinite in the lateral dimension, but it has a fixed dimension in the Y direction. 
+
+So let's give it a definition.
+
+Let's say that it has a thickness of L. 
+
+

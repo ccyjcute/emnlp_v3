@@ -1,0 +1,173 @@
+I want you to act as if you are a linguist who is familiar with functional language, specifically meta-discourse, which focuses on the structure rather than the content itself. Phrases in functional language typically appear at the beginning of a sentence and are high in frequency, utilizing common and general words. Rhetorical functions serve various purposes in communication, particularly in writing and speech, to enhance the effectiveness and persuasiveness of the message.
+
+You will be given a list of sequence in the following format:
+    Original sentence | the original phrase | the modified phrase list 
+
+*Notice*:
+    1. The first part is an original setence, the second part is the original phrase realizing rhetorical function, the third part is the suggested list of phrases realizing rhetorical function.
+    2. In the first part, the [[]] marks where the original phrase is at. If it's [[MISS]], that means the sentence lacks of phrases realizing realizing rhetorical function and need to be included.
+    3. In the third part, there will be a list of 1- 3 suggested phrases realizing rhetorical function.
+    4. If any part of the format contains "x", it means there's no phrase need to be modified.
+    5. If a setence has mulitple phrases need to be modified, it will be shown as 2 sequence.
+    6. All the sentence completes a article.
+
+
+
+####Let's think and do it step by step.####
+
+    1. Read the following list of sequence and identify the if the sentence needs edit or not.
+    2. Edit the sentece by switching the original phrase to the most suitable suggested phrase (usually the first phrase).
+    3. If a suggested phrase appears in other sequence, consider edit the sentece with other phrase in the suggested list.
+    4. You could make little changes to the suggest phrase if that makes the whole sentecemore fluent.
+    5. Do NOT edit other part of the sentence than the suggested phrase.
+    6. Make sure the sentecne after edition still keep the original meanining.
+    6. Make sure the edited part is grammatically correct.
+    7. Make sure every sentence follow grammatical rules.
+    8. Make sure every sentence keep the original meanining before correction.
+    9. If there are duplicated sentences, edited the suggested phrases, than merge them as one sentence.
+    10. Concate all the sentences into a completed article.
+    11. The Output should contain 2 parts: 
+        -Corrections:
+            (1) List out every sentence by seqence, and mark the phrase realizing rhetorical function in [[]].
+            (2) List them out in the format: the corrected sentence under the original sentence.
+            (3) If a sentence needs no modification, keep its corrected sentece as the original sentence.
+            (4) It is allowed to make slight modification to the suggested phrase to make more sense.
+
+        -Complete Article:
+            (1) Conbine all the sentence in the above "-Corrections" step.
+            (2) Do not make changes to level up the article.
+            (2) If there are phrase of sentece with grammatical error or is not fluent, you can make edition but as slightly as possible.
+            (3) Print out the completed article.
+---
+---
+
+Example User input:
+
+    [[Last time,]] we took a look at a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs. | Last time, | ['for the first time', 'at the time of', 'at the end of']
+    Last time, we [[took a look at]] a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs. | took a look at | ['take a look at', 'have a look at', 'going to look at']
+    [[That is to say]], payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies. | That is to say | ['that is to say', 'was going to say', 'and by the way']
+    [[Today, we will discuss]] the Prisoners' Dilemma with examples like joint projects and price competition, stressing the need for contracts, treaties, and regulations. | Today, we discussed | ['going to talk about', 'want to talk about', 'in this chapter we']
+    Today, we will discuss the Prisoners' Dilemma [[with examples like]] joint projects and price competition, stressing the need for contracts, treaties, and regulations. | with examples like | ['s an example of', 'a different kind of', 'the same kind of']
+    [[You can see that,]] essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II. | You can see that | ['you can see that', 'you will see that', 'you can see it']
+    You can see that, essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II. | illustrated with an example | ['s an example of', 'a certain kind of', 'a different kind of']
+    Repeated interactions and learning are crucial. | x | x,
+    [[MISS]] players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average. | Let's say | ["let's have a look", 'if we look at', 'you can see it']
+    [[As shown in figure]], choices moved from random to calculated, resulting in different levels of reasoning. | As shown in figure | ['as shown in figure', 'shown in figure N', 'the same as the']
+    As shown in figure, choices moved from random to calculated, [[resulting]] in different levels of reasoning. | resulting | ['as a result of', 'in the form of', 'in the absence of']
+    [[One of the most]] important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know. | One of the most | ['one of the most', 'is one of the', 'one of the things']
+    One of the most important things is that common knowledge is critical, requiring understanding not just what we know, [[but]] what others know we know. | but | ['in the way that', 'from the point of', 'in the sense that']
+    [[A lot of times]] even mutual knowledge doesn't always mean common knowledge. | A lot of times | ['a lot of times', 'in a lot of', 'for a long time']
+    [[At the end of]] the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time. | At the end of | ['at the end of', 'at the very end', 'the end of the']
+    At the end of the class, [[MISS]] for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time. | it is important | ['it is important to', 'of the most important', 'it is necessary to']
+    At the end of the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, [[shown by]] decreasing chosen numbers over time. | shown by | ['by the name of', 'as a result of', 'the way in which']
+    Knowing rationality and layered knowledge helps players to adjust, [[in the sense of]] strategies, and will prepare for more complex games ahead. | in the sense of | ['in the sense that', 'in the case of', 'in the form of']
+    Knowing rationality and layered knowledge helps players to adjust, in the sense of strategies, and [[will]] prepare for more complex games ahead. | will | ['are we going to', 'll come back to', 'are you going to']
+    Next week, don't forget [[you have to]] hand in your assignment two. | you have to | ['you have to do', "you don't have to", 'and you have to']',
+    [[I don\'t know why]] a lot of you failed to do this last week. | I don't know why | ["I don't know why", "I don't know if", "I don't know whether"]
+    [[Thank you very much]]. | Thank you very much | ['thank you very much', 'the top of the', 'the beginning of the']
+    Class dismissed. | x | x
+--
+
+Example Output:
+
+*Notice*: List out all the sentence in the given list by sequence. 
+*Notice*: keep the [[]] at the phrase realizing rhetorical functions before and after correction. (don't output this line)
+
+--Corrections--:
+
+    1. [[Last time,]] we took a look at a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs.
+    -- [[Last time,]] we took a look at a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs.
+    
+    2. Last time, we [[examing]] a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs.
+    -- Last time, we [[took a look at]] a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs.
+    
+    3. [[It shed the lights that]], payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies. 
+    -- [[That is to say]], payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies.
+    
+    4. [[Today, we will discuss]] the Prisoners' Dilemma with examples like joint projects and price competition, stressing the need for contracts, treaties, and regulations. 
+    -- [[We will look into]] the Prisoners' Dilemma with examples like joint projects and price competition, stressing the need for contracts, treaties, and regulations.
+    
+    5. Today, we will discuss the Prisoners' Dilemma [[with examples like]] joint projects and price competition, stressing the need for contracts, treaties, and regulations. 
+    -- Today, we will discuss the Prisoners' Dilemma [[let's have a look]] joint projects and price competition, stressing the need for contracts, treaties, and regulations.
+    
+    6. [[You can see that,]] essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II. 
+    -- [[You can see that,]] essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II.
+    
+    7. You can see that, essential game ingredients include players, strategies, and payoffs, [[illustrated with an example]] involving Player I and Player II. 
+    -- You can see that, essential game ingredients include players, strategies, and payoffs, [[with an example]] involving Player I and Player II.
+    
+    8. Repeated interactions and learning are crucial.
+    -- Repeated interactions and learning are crucial.
+    
+    9. [[MISS]] players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average. 
+    -- [[Let's say]] players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average.
+    
+    10. [[As shown in figure]], choices moved from random to calculated, resulting in different levels of reasoning. 
+    -- [[As shown in figure]], choices moved from random to calculated, resulting in different levels of reasoning.
+    
+    11. As shown in figure, choices moved from random to calculated, [[resulting]] in different levels of reasoning.
+    -- As shown in figure, choices moved from random to calculated, [[ends up with]] different levels of reasoning.
+    
+    12. [[One of the most]] important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know. 
+    -- [[One of the most]] important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know.
+    
+    13. One of the most important things is that common knowledge is critical, requiring understanding not just what we know, [[but]] what others know we know. 
+    -- One of the most important things is that common knowledge is critical, requiring understanding not just what we know, [[but]] what others know we know.
+    
+    14. [[A lot of times]] even mutual knowledge doesn't always mean common knowledge. | A lot of times | x
+    -- [[A lot of times]] even mutual knowledge doesn't always mean common knowledge.
+    
+    15. [[To summarize]] the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time.  
+    -- [[At the end of]] the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time.
+    
+    16. At the end of the class, [[MISS]] for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time. 
+    -- At the end of the class, [[it is important]] for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time.
+    
+    17. At the end of the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, [[shown by]] decreasing chosen numbers over time. 
+    -- At the end of the class, for you to remember that repeated gameplay and discussions enhance strategic thinking, [[shown by]] decreasing chosen numbers over time.
+    
+    18. Knowing rationality and layered knowledge helps players to adjust, [[in the sense of]] strategies, and will prepare for more complex games ahead. 
+    -- Knowing rationality and layered knowledge helps players to adjust, [[in the way that]] strategies, and will prepare for more complex games ahead.
+    
+    19. Knowing rationality and layered knowledge helps players to adjust, in the sense of strategies, and [[will]] prepare for more complex games ahead.
+    -- Knowing rationality and layered knowledge helps players to adjust, in the sense of strategies, and [[will]] prepare for more complex games ahead.
+    
+    20. Next week, don't forget [[you have to]] hand in your assignment two. 
+    -- Next week, don't forget [[you have to]] hand in your assignment two.
+    
+    21. [[I don't know why]] a lot of you failed to do this last week.
+    -- [[I don't know why]] a lot of you failed to do this last week.
+    
+    22. [[Thank you very much]].
+    -- [[I'll see you next week]].
+    
+    23. Class dismissed. | x | x
+    -- Class dismissed.
+
+
+
+*Notice*: Merge the duplicated sentences into one sentence with their modify parts.
+*Notice*: Generate the complete article by concate all the sentence
+*Notice*: Remove all the [[]] and check if a sentence is grammatically correct. (don't output this line)
+*Notice*: Strictly use the wording "--Complete Article:--" as the headline. (don't output this line)
+    
+--Complete Article:--
+    
+            Last time, we took a look at a game about choosing grades, emphasizing that outcomes alone aren't enough without payoffs.
+            That is to say, payoffs become a normal-form game where Alpha strictly dominates Beta, teaching us to avoid strictly dominated strategies.
+            We will look into the Prisoners' Dilemma with examples like joint projects and price competition, stressing the need for contracts, treaties, and regulations.
+            You can see that essential game ingredients include players, strategies, and payoffs, with an example involving Player I and Player II.
+            Repeated interactions and learning are crucial.
+            Let's say players chose numbers from 1 to 100, aiming to get closest to two-thirds of the average.
+            As shown in figure, choices moved from random to calculated, ending up with different levels of reasoning.
+            One of the most important things is that common knowledge is critical, requiring understanding not just what we know, but what others know we know.
+            A lot of times even mutual knowledge doesn't always mean common knowledge.
+            At the end of the class, it is important for you to remember that repeated gameplay and discussions enhance strategic thinking, shown by decreasing chosen numbers over time.
+            Knowing rationality and layered knowledge helps players to adjust, in the way that strategies, and will prepare for more complex games ahead.
+            Next week, don't forget you have to hand in your assignment two.
+            I don't know why a lot of you failed to do this last week.
+            I'll see you next week.
+            Class dismissed.  
+            
+              
+User will give you another list of sentece, and return the output: 

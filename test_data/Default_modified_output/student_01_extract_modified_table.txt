@@ -1,0 +1,17 @@
+| Sentence Number | Sentence | Phrase | Rhetorical Function |
+| -------------- | -------- | -------- | -------------------- |
+| 1 | On a sunny day, we were all excited about our graduation trip. | x | x |
+| 2 | The first place we went on the first day was the Hou-Feng bike path. | x | x |
+| 3 | [[To start with,]] we enjoyed cycling through "Tunnel No. 9." | To start with | L. Opening and Disclosure |
+| 4 | After passing through the tunnel, we rode across the Dajia River Steel Bridge. | x | x |
+| 5 | We took turns being a domestique; [[this way]] we could quickly finish riding and also saved our effort. | this way | J. Framing Attributes |
+| 6 | [[And if you look]] beside the road, we could see some landscape. | And if you look | F. Topic Introduction |
+| 7 | [[Take a look at]] the picture here, we could see a little waterfall, and behind the waterfall, we could see rolling hills. | Take a look at | F. Topic Introduction |
+| 8 | Since we had some time to ride a bike after finishing all the Hou-Feng bike paths quickly, we decided to continue riding bikes. | x | x |
+| 9 | We were hungry and thirsty due to riding bikes for a long time; therefore, we were finding something to eat. | x | x |
+| 10 | After riding for about ten minutes, we found a hotdog stand, and their hotdog was very tasty. | x | x |
+| 11 | Especially their Taiwanese sausage with sticky rice, which was really chewy. | x | x |
+| 12 | [[At lunchtime,]] our classmates chose BBQ to eat. | At lunchtime, | K. Place/time/text Reference |
+| 13 | With background music playing, we began to grill meat, vegetables, and toast. | x | x |
+| 14 | When we were thirsty, we bought some beverages from the vending machine nearby. | x | x |
+| 15 | During this time, though some food was burned, I still enjoyed the BBQ with my classmates, and it was a memorable time for me. | x | x |
