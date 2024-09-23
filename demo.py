@@ -80,21 +80,22 @@ def check_script(script):
     st.rerun()
 
 def show_button_description(type, description):
+    type_change = ""
     if(type=="Expressing Necessity"):
-        type = "Obligation Statement"
+        type_change = "Obligation Statement"
     elif(type=="Starting or Ending the Class"):
-        type = "Opening and Disclosure"
+        type_change = "Opening and Disclosure"
     elif(type=="Quoting and Reporting"):
-        type = "Citing Conversation"
+        type_change = "Citing Conversation"
 
-    if st.session_state["list_of_lex"].get(type) is None:
+    if st.session_state["list_of_lex"].get(type if type_change=="" else type_change) is None:
         st. session_state["tips"] = ":red[**Note:** Type not found!]"
     else:
         st. session_state["tips"] = ":green[**Note:** Type found!]"
     st.session_state["lexicalBundleType"] = "**Type:**" + " " + ":blue-background[" + type + "]"
     st.session_state["lexicalBundleDescription"] = "**Description:**" + " " + ":blue[" + description + "]"
     st.session_state["improved_script"] = st.session_state["generate_script"]
-    if(st.session_state["list_of_lex"].get(type) is None):
+    if(st.session_state["list_of_lex"].get(type if type_change=="" else type_change) is None):
         return
     for i in st.session_state["list_of_lex"][type]:
         st.session_state["improved_script"] = re.sub(i, ":blue-background["+ i +"]", st.session_state["improved_script"])
