@@ -97,7 +97,7 @@ def show_button_description(type, description):
     st.session_state["improved_script"] = st.session_state["generate_script"]
     if(st.session_state["list_of_lex"].get(type if type_change=="" else type_change) is None):
         return
-    for i in st.session_state["list_of_lex"][type]:
+    for i in st.session_state["list_of_lex"][type if type_change=="" else type_change]:
         st.session_state["improved_script"] = re.sub(i, ":blue-background["+ i +"]", st.session_state["improved_script"])
 
 def use_sample_script(new_sample_script):
